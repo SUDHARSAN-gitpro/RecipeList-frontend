@@ -8,7 +8,6 @@ A React.js frontend for the Recipe Management System that allows users to view, 
 - JavaScript
 - HTML5
 - CSS3
-- Axios
 
 ## 📋 Prerequisites
 
